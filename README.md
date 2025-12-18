@@ -1,21 +1,36 @@
 # Python Programming – eLab Solutions 🐍
 
-This repository contains **Python programming solutions** designed specifically for the **eLab learning platform**.  
-It is intended to help students understand core Python concepts through clear, well-structured solutions.
+This repository contains **Python programming solutions** for the **eLab platform**, organized topic-wise based on the official Python curriculum.
+
+👉 **Each concept will be added weekly**, ensuring gradual and structured learning.
 
 ---
 
-## 📌 About the Repository
+## 📌 Concepts Covered
 
-- ✅ Covers **basic to intermediate Python programs**
-- ✅ Solutions are aligned with **eLab problem statements**
-- ✅ Easy-to-read and beginner-friendly code
-- ✅ Useful for **practice, learning, and revision**
+The repository includes programs under the following **core Python topics**:
+
+- **Input & Output**
+- **Flow Control & Loops**
+- **Arrays & Lists**
+- **Strings**
+- **Functions**
+- **Classes & Objects**
+- **Inheritance**
+- **Advanced Data Types**
+- **Advanced Packages**
+- **Exception Handling**
+
+> 📅 New concepts and problem solutions are added **every week**.
 
 ---
 
-## 🧠 Topics Covered
-Level 1 of Elab Python programming language
+## 🧠 Purpose of This Repository
+
+- ✔️ Practice Python programming for eLab
+- ✔️ Understand core concepts with examples
+- ✔️ Improve logic-building and coding skills
+- ✔️ Structured weekly learning approach
 
 ---
 
