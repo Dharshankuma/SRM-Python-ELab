@@ -15,19 +15,7 @@ It is intended to help students understand core Python concepts through clear, w
 ---
 
 ## 🧠 Topics Covered
-
-- Input / Output operations  
-- Conditional statements  
-- Loops (for, while)  
-- Functions  
-- Strings  
-- Lists, Tuples, Sets, Dictionaries  
-- Basic problem-solving programs  
+Level 1 of Elab Python programming language
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
