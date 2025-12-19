@@ -8,3 +8,17 @@
 # If two Sides are Equal then it is a Isosceles Triangle
 # If no Sides are Equal then it is a Scalene Triangle
 
+
+a=int(input())
+b=int(input())
+c=int(input())
+if (a == b) and (b == c):
+    print("E")
+elif(a == b):
+    print("Isosceles triangle")
+elif(b==c):
+    print("Isosceles triangle")
+elif(a==c):
+    print("Isosceles triangle")
+else:
+    print("Scalene triangle")
