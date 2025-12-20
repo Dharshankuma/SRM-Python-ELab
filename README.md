@@ -33,4 +33,21 @@ The repository includes programs under the following **core Python topics**:
 - ✔️ Structured weekly learning approach
 
 ---
+---
+
+## 🏫 Academic Usage
+
+- This repository is created **specifically for SRM Ramapuram MCA students (Batch 2025–2027)** as a reference for **eLab Python programming solutions**.
+- The solutions are intended **only for learning and practice purposes**.
+- Students are strongly encouraged to understand the logic and attempt problems independently before referring to the code.
+
+---
+
+## 📬 Contact
+
+If you find any issues, errors, or have suggestions for improvement, feel free to reach out through mail
+
+> Please avoid using this repository for direct copy-paste during lab exams or evaluations.
+
+---
 
